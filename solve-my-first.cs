@@ -1,4 +1,5 @@
-// link to the challenge: https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
+// link to the challenge: 
+// https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
 
 using System;
 using System.Collections.Generic;
